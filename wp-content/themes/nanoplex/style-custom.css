@@ -1,0 +1,341 @@
+/* COLOR CUSTOMIZATION: Change the color codes to colors you like? Everything here should override the colors on top.*/
+/* *******************_*_*_*_*_**_*_**************_*_*_*_**_**************** */
+/* go bells */
+
+/* Shadows and shadow colors */
+.boxy-shadow, 
+.head_banner, 
+.normal_post,
+.arm,
+#content .images-only .post-content .second-image,
+#comments,
+.widget,
+.cat_title,
+.widget-footer,
+footer .widget,
+footer .container,
+#content .images-only .left-banner {
+	box-shadow: -6px 6px 12px #4F4F4F;
+	-moz-box-shadow: -6px 6px 12px #4F4F4F;
+	-webkit-box-shadow: -6px 6px 12px #4F4F4F;
+}
+
+/* background and border of header box */
+header .head_banner {
+	background: #D4D4D4;
+	border: 1px solid #9E9E9E;
+}
+
+/* color of text (title and subtitle of blog) */
+header h1,
+header h1 a,
+header p {
+	color: #1C1C1C;
+}
+
+/*----- MENU DETAILS ------*/
+	div.menu, nav li a { background: #696969; } /*menu background color */
+	nav ul li:hover > a { background: #E6395F; } /*bg color of highlighted item*/
+	nav ul li.links:hover > a { color: #4A4A4A; } /* txt color of highl item*/
+	nav ul ul li:hover > a { background: #E8E8E8; color: #4A4A4A; } /*bg and text color of highlighted sub-item*/
+	nav ul ul li a { background: #F5F5F5; color: #4A4A4A; } /*non hovered version of above */
+	nav ul a.menu-links, nav li.links a { color: #F5F5F5; } /* "Links item" text color */
+	nav ul a.menu-links:hover, nav ul a.hover, nav li.links li a:hover  { color: #4A4A4A; background-color: #AFFF7A; } /* "Links item" colors when hovered */
+	nav li.links li a { /*text color of sublinks*/
+		color: #7D7D7D;
+	}
+/*-----END MENU DETAILS------ */
+
+
+/* --------SEARCH BOX--------- */
+.search input.box, .post-content label input { color:#fff; background-color: #45555C;}
+.search input.box:focus { background: #28404A; border: solid 1px gray;} /*when clicked */
+.search button.btn {background-color: #7A95A0;} /*button*/
+.search button.btn:hover {background-color: #62828C} /*hovered button*/
+
+
+/* ------------POST------------ */
+/* Your basic (default orange) post bg color and border */
+.post {
+	background: #7A7A7A;
+	border: 1px solid #454545;
+}
+.post .post-title { /*post header bg color*/
+	background: #454545;
+}
+/* post header text color and other text color */
+.post .post-title .supertitle, .post .post-title p, .post .post-title .author {
+	color: #FFFFFF;
+}
+
+/* Post text color */
+.post { color: #FFFFFF; }
+
+/* post image border color */
+.post .post-content img, .front_page .post-inners .post-content .thumbnail-cropper { border: #ABABAB solid 5px;}
+
+/* post caption */
+.post .post-content .wp-caption {
+	background: #B8B8B8;
+}
+
+
+/* _--------------STICKY POST------------------ */
+/* (The pink ones) */
+#content .sticky_post { /*bg color*/
+	background: #E8E8E8;
+	border: 1px solid #454545;
+}
+#content .sticky_post .post-title, .arm, .shadowhider, .hiderhider  { /*title bg */
+	background: #D4D4D4;
+}
+
+.sticky_post .post-title .supertitle, 
+.sticky_post .post-title p, 
+.sticky_post .post-title .author,
+#content .sticky_post {
+	color: #5C5C5C;
+}
+
+.arm-content, .sticky_post .post-content img { /*image border color */
+	border: solid 5px #B34F64;
+}
+
+/* -------------ABOUT PAGES (AUTHORS) ---------------
+(the blue ones, author about pages) */
+#content .author-post {
+	background: #B3D6FF;
+}
+#content .author-post .post-title {
+	background: #527BD9;
+}
+#content .author-post .author-content { /* the text color */
+	color: #fff;
+}
+#content .author-post .author-info-container { /*the box w/ info about the author*/
+	background: #97B1CF;
+}
+
+/*not sure what this is */
+.author-commentInners {
+	border-left: 1px solid #F0A3B4;
+}
+
+/* --------------LEFT-POST (the purple ones) -------------- */
+#content .left-post {
+	background: #D4D4D4;
+	border: 1px solid #B5B5B5;
+	color: #5E5E5E;
+}
+#content .left-post .post-title { /* head part*/
+	background: #B5B5B5;
+}
+#content .left-post .post-content img,
+#content .left-post .post-inners .post-content .thumbnail-cropper { /*img borders*/
+	border-color: #B5B5B5;
+}
+
+/* ------------------IMAGE POSTS--------------------- */
+#content .images-only .left-banner,
+#content .images-only .post-content .first-image,
+#content .images-only .post-content .second-image { /*image posts overall*/
+	background: #333333;
+	border: 1px solid #333333;
+}
+
+/*don't change this*/
+#content .images-only .post-content .first-image {
+	border-left: none;
+}
+#content .images-only .post-title p,
+#content .images-only .post-title .author,
+#content .images-only .post-title .supertitle,
+#content .images-only .post-content  { /*image post text color*/
+	color: #D6D6D6;
+}
+/*color of the line above text*/
+#content .images-only .post-inners .post-content .post-title {
+	border-top-color: #D6D6D6;
+}
+
+
+/*--------------------PAGES------------------- */
+
+.pagination a, /*pagination and post-meta box color */
+#post-meta {
+	background: #ADADAD;
+}
+
+#post-meta a:hover {
+	color: #9CE9FF;
+}
+
+/*--------------------COMMENTS------------------ */
+#comments { /*comment bg*/
+	background: #D4D4D4;
+	border: 1px solid #9E9E9E;
+	border-left: none;
+}
+
+#comments .post-title { /*head*/
+	background: #696969;
+}
+
+/*individual comments*/
+#comments .comment {
+	background: #ADADAD;
+	color: white;
+}
+#comments .comment-num-div { /*number bg*/
+	color: white;
+	background: #696969;
+}
+
+#comments .comment-edit-link, /*link color*/
+#comments .reply a {
+	color: #404040;
+}
+#comments .comment-edit-link-div { /*box behind "edit"*/
+	background: #F2F2F2;
+}
+#comments .comment .comment-meta,
+#comments .comment .comment-meta .comment-info { /*comment info*/
+	background: #919191;
+}
+#comments .comment .gravatar img { /*gravatar border */
+	border: 4px solid #919191;
+}
+#comments .comment-background-odd { /*big box behind chains of comments?*/
+	background: #8AB6C2;
+}
+#comments .comment-background-even { /*big box behind chains of comments?*/
+	background: #C7C471;
+}
+/* comment respond box */
+#comments #respond {
+	background: #ADADAD;
+}
+
+#comments #respond h3 {
+	color: white;
+	background: #696969;
+}
+#comments #respond #cancel-comment-reply-link {
+	color: #696969;
+	background: #EDEDED;
+}
+#comments #respond .logged-in-as,
+#comments #respond .comment-notes, #comments #respond .must-log-in,
+#comments #respond .form-allowed-tags {
+	color: white;
+	background: #878787;
+}
+#comments .form-holder {
+	border-left: 1px #B3B3B3 solid;
+}
+#comments #respond .comment-form-author,
+#comments #respond .comment-form-email,
+#comments #respond .comment-form-url {
+	color: white;
+	background: #B3B3B3;
+	border: 1px solid #DEDEDE;
+	border-top: none;
+}
+#comments #respond .comment-form-author input,
+#comments #respond .comment-form-email input,
+#comments #respond .comment-form-url input {
+	background: #B3B3B3;
+	color: white;
+}
+.comment-nav {
+	background: #999999;
+}
+#comments .comment-content .no-comments {
+	color: white;
+	border-bottom: 1px solid #B3B3B3;
+	border-left: 1px solid #B3B3B3;
+}
+
+/*---------------------WIDGETS--------------------*/
+#widget-holder {
+	border: 5px dotted #696969;
+}
+#widget-holder-footer {
+	border: 5px dotted #696969;
+}
+.widget {
+	background: #7A7A7A;
+	border: 1px solid #454545;
+}
+.widget .post-title {
+	color: #fff;
+	background: #454545;
+}
+.widget .widget-content,
+.widget .widget-content a {
+	color: #fff;
+}
+#entire-widget-footer {
+	border: 5px dotted #696969;
+	background: rgba(140,140,140,0.2);
+}
+.widget-footer,
+footer .widget {
+	background: #7A7A7A;
+	border: 1px solid #454545;
+}
+.widget-footer .post-title,
+footer .widget .post-title {
+	color: #fff;
+	background: #454545;
+}
+
+/*----------------Navigation and green blobs---------------*/
+.older,
+.newer,
+.cat_title { /*navigation */
+	background: #B5B5B5;	
+	border: 1px solid #696969;
+	box-shadow: -6px 6px 12px #4F4F4F;
+	-moz-box-shadow: -6px 6px 12px #4F4F4F;
+	-webkit-box-shadow: -6px 6px 12px #4F4F4F;
+}
+
+/*----------------Footer---------------*/
+footer .container {
+	background: #D4D4D4 url('images/footer_bg.png') no-repeat right bottom;
+	border: 1px solid #9E9E9E;
+}
+footer .rss {
+	background: #B5B5B5;
+}
+footer .credits {
+	color: #696969;
+}
+footer .credits a {
+	color: #5E5E5E;
+}
+
+
+/*=-------------SEARCH---------------*/
+.search input.box {
+	color: #fff;
+	background: #454545 url('images/search_text.png') no-repeat;
+}
+.search input.box:focus {
+	background: #383838;
+}
+.post-content label input { /*in a post?*/
+	background: #454545;
+	color: white;
+}
+.search button.btn {
+	background: #5C5C5C url('images/search_bg.gif') no-repeat;
+}
+.search button.btn:hover {
+	background: #4F4F4F url('images/search_bg.gif') no-repeat;
+}
+
+
+
+/* Need help? Email me @ nano8blazex@nanothoughts.com. I may be hard to contact otherwise.*/

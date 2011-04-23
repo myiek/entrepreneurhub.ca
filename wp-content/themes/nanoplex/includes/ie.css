@@ -1,0 +1,40 @@
+/*targeted towards internet explorer */
+
+div {
+	position: relative;
+	min-height: 0px;
+}
+
+/*opacities and filters*/
+div.menu {
+	filter: alpha(opacity=80);
+}
+.images-only .post-content .first-image .two {
+	filter: alpha(opacity=40);
+}
+.images-only .post-content .first-image .three {
+	filter: alpha(opacity=20);
+}
+nav ul .menu-links {
+	z-index: 0;
+}
+nav ul a:hover > ul {
+	display: block;
+}
+nav ul li li a {
+	filter: alpha(opacity=90);
+}
+nav ul li a {
+	filter: alpha(opacity=90);
+}
+nav ul li.links a {
+	filter: alpha(opacity=90);
+}
+
+/*bug fixes*/
+.comment-num, 
+.comment-num-div {
+	z-index: 9999;
+}
+
+

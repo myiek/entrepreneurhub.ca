@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iStudio Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-26 22:46+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Xu.hel <xu@xuui.net>\n"
+"Language-Team: Xu.Design <xu@xuui.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/404.php:8
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:10
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - 見つかりませんでした"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/archive.php:54
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/index.php:32
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/search.php:35
+msgid "Not Found"
+msgstr "見つかりませんでした"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/archive.php:57
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/index.php:35
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/search.php:38
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "申し訳ありませんが、あなたが探しているここではない。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/archives.php:14
+msgid "Recent Articles"
+msgstr "最近の投稿"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:11
+msgid "Responses to "
+msgstr "返信.....から"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:15
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:18
+msgid "Comments"
+msgstr "コメント"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:16
+msgid "Trackbacks"
+msgstr "引用"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:21
+msgid "Leave a comment"
+msgstr "コメント"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:24
+msgid "Trackback url"
+msgstr "トラックバックURI"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:33
+msgid "No comments yet."
+msgstr "コメントはありません。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:40
+msgid "Comment Page:"
+msgstr "コメントページ："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:62
+msgid "No trackbacks yet."
+msgstr "いいえ参照。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/footer.php:4
+msgid "&#183;"
+msgstr "&#183;"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:12
+msgid "Excerpt"
+msgstr "要約"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:143
+msgid "Settings saved."
+msgstr "設定が保存されます。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:147
+msgid "Settings have been restored to default."
+msgstr "設定がデフォルト値に復元されている。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:149
+msgid " Options"
+msgstr " Options"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:174
+msgid "Options"
+msgstr "オプション"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:175
+msgid "Thank you for using iStudio. This Theme is Designed by Xu.hel."
+msgstr "使用していただき、ありがとうございます iStudio テーマ。 このテーマは、 Xu.hel デザイン。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:176
+msgid "You can click the donate button at the bottom of this page if you think this is a very nice WordPress theme.  Thank you."
+msgstr "あなたはこのような場合のテーマ。次にすることができますをクリックして、このページの下部に寄付する（donate）ボタン。ありがとうございます。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:178
+msgid "Custom Shortcode"
+msgstr "カスタムショートコード"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:180
+msgid "Shortcode format:"
+msgstr "ショートコード形式："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:181
+msgid "Insert Download: <code>[Downlink href=\"URL\"]Filename[/Downlink]</code>"
+msgstr "挿入ダウンロード： <code>[Downlink href=\"URL\"]Filename[/Downlink]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:182
+msgid "Insert FLV Video: <code>[flv auto=\"1\"]FLV URL[/flv]</code>"
+msgstr "挿入FLVビデオ： <code>[flv auto=\"1\"]FLV URL[/flv]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:183
+msgid "Insert MP3 Music: <code>[mp3 auto=\"1\" replay=\"0\"]MP3 URL[/mp3]</code>"
+msgstr "挿入MP3音楽： <code>[mp3 auto=\"1\" replay=\"0\"]MP3 URL[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:189
+msgid "General"
+msgstr "従来の"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:191
+msgid "Navigation bar is displayed as:"
+msgstr "ナビゲーションバーのように表示されます："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:192
+msgid "Page link"
+msgstr "リンクページ"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:193
+msgid "Category List"
+msgstr "カテゴリ一覧"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:194
+msgid "WordPress Nav Menu"
+msgstr "WordPress 3.0 ナビゲーションメニュー"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:196
+msgid "Page Number style is displayed as:"
+msgstr "ページスタイルが表示されます"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:196
+msgid "Theme Styles"
+msgstr "テーマスタイル"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:196
+msgid "Default Styles"
+msgstr "WordPress デフォルトのスタイル"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:197
+msgid "Use the Picture Logo."
+msgstr "使用写真 Logo。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:198
+msgid "Hide \"Home\" Link."
+msgstr "隠す \"Home\" リンク。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:199
+msgid "Show sidebar in single pages."
+msgstr "記事のページが1つのサイドバーに表示されます。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:200
+msgid "Show sidebar in pages."
+msgstr "表示ページのサイドバー。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:201
+msgid "Use Ctrl+Enter to Reply Comments."
+msgstr "使用 Ctrl+Enter 返信コメント。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:205
+msgid "Enable keywords for search engine."
+msgstr "有効にする検索エンジンのキーワード"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:207
+msgid "Search engine keywords values fill in the following input box. Each keyword with \",\" separated."
+msgstr "検索エンジンのキーワードの値は以下の入力ボックスに入力。各キーワードはカンマで区切られます。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:212
+msgid "Custom RSS Subscription"
+msgstr "カスタムのRSSチャンネル登録"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:214
+msgid "Please enter a new RSS subscription address (if not set is to use WordPress's default subscription address)."
+msgstr "なお、新RSSフィードのアドレス（いない場合はデフォルトの設定では）ワードプレスサブスクリプションアドレスを使用することです入力してください。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:219
+msgid "Enable GrowlBox pop-up tips"
+msgstr "オープンGrowlBoxバブルのヒント"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:221
+msgid "GrowlBox the content of the pop-up tips(Use HTML code.):"
+msgstr "GrowlBoxバブルヒントの内容は（あなたが）のHTMLコードを使用できます："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:226
+msgid "Use google custom search engine"
+msgstr "使用するGoogleカスタム検索"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:228
+msgid "Find <code>name=\"cx\"</code> in the <strong>Search box code</strong> of <a href=\"http://www.google.com/coop/cse/\">Google Custom Search Engine</a>, and enter the <code>value</code> here.<br/>For example: <code>014782006753236413342:1ltfrybsbz4</code>"
+msgstr "で <a href=\"http://www.google.com/coop/cse/\">Google Custom Search Engine</a>の検索ボックスのコードを見つけるために <code>name=\"cx\"</code> ， 値のカウンターパートと、次の入力ボックスに入力の値です。<br />など: <code>014782006753236413342:1ltfrybsbz4</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:233
+msgid "Open the article Recommendation Widgets"
+msgstr "記事を推奨開きます Widgets"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:235
+msgid "Recommended articles to be linked with the HTML code written in the input box below:"
+msgstr "お勧めの記事は、HTMLコードの入力ボックスの下で書かれたリンクします："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:240
+msgid "Random Image"
+msgstr "画像をランダムに"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:242
+msgid "Number of images:"
+msgstr "写真："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:242
+msgid "3 images at minimum."
+msgstr "少なくとも3つの写真。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:244
+msgid "Use ads to replace random pictures."
+msgstr "広告に置き換えてランダムな写真。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:246
+msgid "Ads code to replace the random pictures: (Max size: 860x120)"
+msgstr "広告コードを置き換えますランダム画像：（最大サイズ：860x120）"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:246
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:262
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:266
+msgid "Hide after user logged in"
+msgstr "ユーザのログインを隠す"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:253
+msgid "Ad Code Settings"
+msgstr "広告コードがセット"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:256
+msgid "Ads code will not be displayed as long as the ad code box was emptied."
+msgstr "次の広告コード]ボックスが空の限り、広告コードを表示されません。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:257
+msgid "Ad code embedded in the article: (Max size: 300x250)"
+msgstr "埋め込まれた広告コードに関する記事：（最大サイズ：300 × 250）"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+msgid "Embedded ads appear here:"
+msgstr "組み込みの広告の表示位置："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+msgid "left"
+msgstr "左"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+msgid "right"
+msgstr "右"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:262
+msgid "Ad code displayed inside single article: (Max size: 728x90)"
+msgstr "広告コードのページで1つの記事の表示：（最大サイズ：728 × 90）"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:266
+msgid "Ad code displayed in the sidebar: (Max size: 200x220)"
+msgstr "示され、広告コードのサイドバーに：（最大サイズ：200x220）"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:272
+msgid "Save Changes"
+msgstr "設定を保存"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:273
+msgid "Revert to Defaults"
+msgstr "元に戻すデフォルト値に"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:301
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:325
+msgid "iStudio Shortcode"
+msgstr "シニアコンサルタントを勤めるショートコード"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:303
+msgid "iStudio Custom Shortcode format"
+msgstr "iStudio カスタムショートコード形式"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:305
+msgid "Insert Download"
+msgstr "挿入ダウンロードボタン"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:306
+msgid "Insert the following code into the editor, you will be able to use the built-in download button style."
+msgstr "エディタ内部では、挿入は、次のコードを使うことができます内蔵CSSスタイルのテーマのダウンロードボタンです"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:307
+msgid "Code format: <code>[Downlink href=\"http://www.xxx.com/xxx.zip\"]download xxx.zip[/Downlink]</code>"
+msgstr "コードフォーマット：<code>[Downlink href=\"http://www.xxx.com/xxx.zip\"]download xxx.zip[/Downlink]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:308
+msgid "Insert MP3 music"
+msgstr "挿入MP3音楽"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:309
+msgid "Insert the following code into the editor, you will be able to use the built-in MP3 music player.."
+msgstr "エディタ内で、挿入は、次のコードを、あなたは内蔵MP3プレーヤーでMP3音楽を再生するためのテーマを使用することができます。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:310
+msgid "Only supports mp3 file URL."
+msgstr "URLはMP3ファイルだけをサポートして対処します。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:311
+msgid "Code format: <code>[mp3]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "コードフォーマット：<code>[mp3]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:312
+msgid "Auto Play: <code>[mp3 auto=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "自動再生：<code>[mp3 auto=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:313
+msgid "Repeat Play: <code>[mp3 replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "ループ：<code>[mp3 replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:314
+msgid "Auto Play and Repeat Play: <code>[mp3 auto=\"1\" replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "オート、サイクル再生：<code>[mp3 auto=\"1\" replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:315
+msgid "Insert FLV video"
+msgstr "挿入のFLV動画："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:316
+msgid "Insert the following code into the editor, you will be able to use the built-in video player to play FLV video."
+msgstr "エディタ内部では、挿入は、次のコードを、あなたは内蔵のFLVプレーヤーでFLVビデオを再生するためのテーマを使用することができます。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:317
+msgid "Only supports flv file URL."
+msgstr "のみのFLVのURLアドレスをファイルをサポートします。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:318
+msgid "Code format: <code>[flv]http://www.xxx.com/xxx.flv[/flv]</code>"
+msgstr "コード形式：<code>[flv]http://www.xxx.com/xxx.flv[/flv]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:319
+msgid "Auto Play: <code>[flv auto=\"1\"]http://www.xxx.com/xxx.flv[/flv]</code>"
+msgstr "自動再生：<code>[flv auto=\"1\"]http://www.xxx.com/xxx.flv[/flv]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:356
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:371
+msgid "Reply"
+msgstr "返信"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:402
+msgid "&laquo; Previous"
+msgstr "&laquo; 前"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:403
+msgid "Next &raquo;"
+msgstr "次の &raquo;"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:4
+msgid "This are iStudio's recent comments."
+msgstr "これは iStudio の最近のコメント。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:5
+msgid "iStudio Recent Comments"
+msgstr "iStudio 最近のコメント"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:10
+msgid "Recent Comments"
+msgstr "最近のコメント"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:24
+msgid "Title:"
+msgstr "タイトル："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:26
+msgid "Number of comments to show:"
+msgstr "コメントの表示数："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:10
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "検索結果：\"%s\""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Click Back to Home"
+msgstr "をクリックして帰国する"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Home"
+msgstr "Home"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Click to return to Home page"
+msgstr "をクリックして帰国する"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Blog Archive"
+msgstr "Blog Archive"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/search.php:8
+msgid "Search Results"
+msgstr "検索結果"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:9
+msgid "Categories"
+msgstr "分類"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:13
+msgid "Most Popular Articles"
+msgstr "人気記事"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:20
+msgid "Archives"
+msgstr "記事アーカイブ"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:32
+msgid "Meta"
+msgstr "その他"
+

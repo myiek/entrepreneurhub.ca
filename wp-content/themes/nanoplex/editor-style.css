@@ -1,0 +1,37 @@
+/*
+editor-style.css
+Nano8Blazex
+provides styles for the editor...
+*/
+
+/* My Stuff */
+
+* {
+	line-height: 1.5em;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica-Light", "Helvetica Light", "GillSans-Light", "Gill Sans Light", Kozuka Gothic Pro L, "Helvetica Neue", "Helvetica", Helvetica, "Gill Sans", Trebuchet MS, Arial, sans-serif;
+	font-weight: 300;
+}
+
+b {
+	font-family: Helvetica, Kozuka Gothic Pro L, Arial, sans-serif;
+	font-weight: 900;
+}
+
+i {
+	font-family: "Helvetica-LightOblique", "Helvetica Light Oblique", "Helvetica", "HelveticaNeue-LightItalic", "Helvetica Neue Light Italic", , "GillSans-LightItalic", "Gill Sans Light Italic", Kozuka Gothic Pro L, Helvetica, Trebuchet MS, Arial, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+.font,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+body {
+	font-weight: 300;
+}
+
+/* This may not reflect everything fully... */

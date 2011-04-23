@@ -1,0 +1,19 @@
+/* Custom Login Styles */
+html{background:#dee0e0;}
+html *{box-shadow:none;}
+body.login{background:#dee0e0;}
+form{color:#666;-moz-box-shadow:none;-webkit-box-shadow:none;-khtml-box-shadow:none;box-shadow:none;}
+h1 a{background:transparent;height:82px;width:300px;}
+#login{background:url(login-bkg-tile.png) center top no-repeat;width:300px;}
+#loginform, #registerform, #lostpasswordform{background-color:transparent;border:none;}
+#login form{margin-top:0;}
+#nav{background:url(login-bkg-bottom.png) center bottom no-repeat;height:45px;text-indent:26px;margin:0px;padding:0px;}
+.login #nav a{color:#333;}
+#login form .submit input{margin-right:11px;}
+#login p{margin:0 0 12px;}
+#login p#nav{margin:0;}
+#login p.message{padding:6px 12px;margin:10px 26px 0px 24px;}
+#login p .input{border:1px solid #999;padding:3px;height:14px;font-size:14px;}
+#login #login_error{padding:6px 12px;margin:15px 26px 0px 24px;}
+#user_pass, #user_login, #user_email{font-size:20px;width:94%;}
+#backtoblog,#backtoblog a{color:#fff;}

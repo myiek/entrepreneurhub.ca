@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iStudio Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-26 22:45+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Xu.hel <xu@xuui.net>\n"
+"Language-Team: Xu.Design <xu@xuui.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/404.php:8
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:10
+msgid "Error 404 - Not Found"
+msgstr "Errore 404 - Non Trovato"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/archive.php:54
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/index.php:32
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/search.php:35
+msgid "Not Found"
+msgstr "Non Trovato"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/archive.php:57
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/index.php:35
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/search.php:38
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Spiacente, stai cercando qualcosa che non è qui."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/archives.php:14
+msgid "Recent Articles"
+msgstr "Articoli Recenti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:11
+msgid "Responses to "
+msgstr "Risposte a"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:15
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:18
+msgid "Comments"
+msgstr "Commenti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:16
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:21
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:24
+msgid "Trackback url"
+msgstr "Trackback url"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:33
+msgid "No comments yet."
+msgstr "Ancora nessun commento"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:40
+msgid "Comment Page:"
+msgstr "Pagina dei Commenti:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:62
+msgid "No trackbacks yet."
+msgstr "Ancora nessun trackback"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/footer.php:4
+msgid "&#183;"
+msgstr "&#183;"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:12
+msgid "Excerpt"
+msgstr "Estratto"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:143
+msgid "Settings saved."
+msgstr "Preferenze salvate."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:147
+msgid "Settings have been restored to default."
+msgstr "Sono state ripristinate le preferenze iniziali."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:149
+msgid " Options"
+msgstr "Opzioni"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:174
+msgid "Options"
+msgstr "Opzioni"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:175
+msgid "Thank you for using iStudio. This Theme is Designed by Xu.hel."
+msgstr "Grazie per aver scelto iStudio. Questo Tema è una Creazione di Xu.hel."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:176
+msgid "You can click the donate button at the bottom of this page if you think this is a very nice WordPress theme.  Thank you."
+msgstr "Se questo Tema ti piace, puoi considerare una donazione all'autore cliccando sul pulsante in fondo a questa pagina. Grazie."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:178
+msgid "Custom Shortcode"
+msgstr "Codice Personalizzato"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:180
+msgid "Shortcode format:"
+msgstr "Formato del Codice"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:181
+msgid "Insert Download: <code>[Downlink href=\"URL\"]Filename[/Downlink]</code>"
+msgstr "Inserisci Download: <code>[Downlink href=\"URL\"]Filename[/Downlink]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:182
+msgid "Insert FLV Video: <code>[flv auto=\"1\"]FLV URL[/flv]</code>"
+msgstr "Inserisci FLV Video: <code>[flv auto=\"1\"]FLV URL[/flv]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:183
+msgid "Insert MP3 Music: <code>[mp3 auto=\"1\" replay=\"0\"]MP3 URL[/mp3]</code>"
+msgstr "Inserisci File MP3: <code>[mp3 auto=\"1\" replay=\"0\"]MP3 URL[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:189
+msgid "General"
+msgstr "Generale"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:191
+msgid "Navigation bar is displayed as:"
+msgstr "La barra di Navigazione è mostrata come:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:192
+msgid "Page link"
+msgstr "Link Pagina"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:193
+msgid "Category List"
+msgstr "Categorie"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:194
+msgid "WordPress Nav Menu"
+msgstr "Menu di Navigazione di Wordpress"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:196
+msgid "Page Number style is displayed as:"
+msgstr "Lo stile di Numerazione delle Pagine è mostrato come:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:196
+msgid "Theme Styles"
+msgstr "Stili del Tema"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:196
+msgid "Default Styles"
+msgstr "Stili di Default"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:197
+msgid "Use the Picture Logo."
+msgstr "Usa il Logo."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:198
+msgid "Hide \"Home\" Link."
+msgstr "Nascondi \"Home\" Link."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:199
+msgid "Show sidebar in single pages."
+msgstr "Mostra la barra laterale nelle pagine singole."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:200
+msgid "Show sidebar in pages."
+msgstr "Mostra la barra laterale nelle pagine."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:201
+msgid "Use Ctrl+Enter to Reply Comments."
+msgstr "Usa Ctrl+Enter per Rispondere ai Commenti."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:205
+msgid "Enable keywords for search engine."
+msgstr "Abilita le parole chiave per i motori di ricerca."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:207
+msgid "Search engine keywords values fill in the following input box. Each keyword with \",\" separated."
+msgstr "Inserisci le parole chiave per i motori di ricerca nel box seguente. Separa le parole chiave con \",\" questi simboli."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:212
+msgid "Custom RSS Subscription"
+msgstr "Sottoscrizione RSS Personalizzata"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:214
+msgid "Please enter a new RSS subscription address (if not set is to use WordPress's default subscription address)."
+msgstr "Per piacere inserisci un nuovo indirizzo per la sottoscrizione agli RSS (se il campo è vuoto viene utilizzato l'indirizzo Wordpress di default)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:219
+msgid "Enable GrowlBox pop-up tips"
+msgstr "Abilita i suggerimenti pop-up di GrowlBox"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:221
+msgid "GrowlBox the content of the pop-up tips(Use HTML code.):"
+msgstr "Inserisci il contenuto dei suggerimenti pop-up di Growlbox (Utilizzare codice HTML):"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:226
+msgid "Use google custom search engine"
+msgstr "Personalizza la ricerca di Google"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:228
+msgid "Find <code>name=\"cx\"</code> in the <strong>Search box code</strong> of <a href=\"http://www.google.com/coop/cse/\">Google Custom Search Engine</a>, and enter the <code>value</code> here.<br/>For example: <code>014782006753236413342:1ltfrybsbz4</code>"
+msgstr "Trova <code>name=\"cx\"</code> nel <strong>Box di ricerca</strong> di <a href=\"http://www.google.com/coop/cse/\">Google Custom Search Engine</a>, e inserisci il <code>codice</code> qui.<br/>Per esempio: <code>014782006753236413342:1ltfrybsbz4</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:233
+msgid "Open the article Recommendation Widgets"
+msgstr "Apri il Widget degli Articoli Raccomandati"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:235
+msgid "Recommended articles to be linked with the HTML code written in the input box below:"
+msgstr "Gli Articoli Raccomandati devono essere linkati con codice HTML da inserire nel box qui sotto:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:240
+msgid "Random Image"
+msgstr "Immagine Casuale"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:242
+msgid "Number of images:"
+msgstr "Numero di Immagini:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:242
+msgid "3 images at minimum."
+msgstr "Minimo 3 immagini."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:244
+msgid "Use ads to replace random pictures."
+msgstr "Utilizza annunci pubblicitari per sostituire le immagini casuali."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:246
+msgid "Ads code to replace the random pictures: (Max size: 860x120)"
+msgstr "Codice pubblicitario per sostituire le immagini casuali: (Grandezza massima: 860x120)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:246
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:262
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:266
+msgid "Hide after user logged in"
+msgstr "Nascondi dopo autenticazione Utente"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:253
+msgid "Ad Code Settings"
+msgstr "Settaggi Codice Pubblicitario"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:256
+msgid "Ads code will not be displayed as long as the ad code box was emptied."
+msgstr "Il codice pubblicitario non apparirà fino a quando il box resta vuoto."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:257
+msgid "Ad code embedded in the article: (Max size: 300x250)"
+msgstr "Codice Pubblicitario inserito nell'articolo: (Grandezza massima: 300x250)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+msgid "Embedded ads appear here:"
+msgstr "La pubblicità inserita appare qui:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+msgid "left"
+msgstr "sinistra"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+msgid "right"
+msgstr "destra"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:262
+msgid "Ad code displayed inside single article: (Max size: 728x90)"
+msgstr "Codice pubblicitario mostrato dentro articoli singoli: (Grandezza massima: 728x90)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:266
+msgid "Ad code displayed in the sidebar: (Max size: 200x220)"
+msgstr "Codice pubblicitario mostrato dentro articoli singoli: (Grandezza massima: 728x90)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:272
+msgid "Save Changes"
+msgstr "Salva le Modifiche"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:273
+msgid "Revert to Defaults"
+msgstr "Ritorna ai Settaggi Iniziali"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:301
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:325
+msgid "iStudio Shortcode"
+msgstr "Codice iStudio"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:303
+msgid "iStudio Custom Shortcode format"
+msgstr "Formato del Codice iStudio"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:305
+msgid "Insert Download"
+msgstr "Inserisci Download"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:306
+msgid "Insert the following code into the editor, you will be able to use the built-in download button style."
+msgstr "Inserisci il codice seguente nell'editor, potrai utilizzare il bottone di default per i download."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:307
+msgid "Code format: <code>[Downlink href=\"http://www.xxx.com/xxx.zip\"]download xxx.zip[/Downlink]</code>"
+msgstr "Formato del Codice: <code>[Downlink href=\"http://www.xxx.com/xxx.zip\"]download xxx.zip[/Downlink]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:308
+msgid "Insert MP3 music"
+msgstr "Inserisci MP3"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:309
+msgid "Insert the following code into the editor, you will be able to use the built-in MP3 music player.."
+msgstr "Inserisci il codice seguente nell'editor, potrai utilizzare il lettore MP3 di default."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:310
+msgid "Only supports mp3 file URL."
+msgstr "Sono supportati solo URL con link diretto a file MP3."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:311
+msgid "Code format: <code>[mp3]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "Formato del Codice: <code>[mp3]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:312
+msgid "Auto Play: <code>[mp3 auto=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "Auto Play: <code>[mp3 auto=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:313
+msgid "Repeat Play: <code>[mp3 replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "Ripetizione Automatica: <code>[mp3 replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:314
+msgid "Auto Play and Repeat Play: <code>[mp3 auto=\"1\" replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "Auto Play e Ripetizione Automatica: <code>[mp3 auto=\"1\" replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:315
+msgid "Insert FLV video"
+msgstr "Inserisci video FLV"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:316
+msgid "Insert the following code into the editor, you will be able to use the built-in video player to play FLV video."
+msgstr "Inserisci il codice seguente nell'editor, potrai utilizzare il lettore video di default per i video FLV."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:317
+msgid "Only supports flv file URL."
+msgstr "Sono supportati solo URL con link diretto a file FLV."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:318
+msgid "Code format: <code>[flv]http://www.xxx.com/xxx.flv[/flv]</code>"
+msgstr "Formato del Codice: <code>[flv]http://www.xxx.com/xxx.flv[/flv]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:319
+msgid "Auto Play: <code>[flv auto=\"1\"]http://www.xxx.com/xxx.flv[/flv]</code>"
+msgstr "Auto Play: <code>[flv auto=\"1\"]http://www.xxx.com/xxx.flv[/flv]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:356
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:371
+msgid "Reply"
+msgstr "Rispondi"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:402
+msgid "&laquo; Previous"
+msgstr "&laquo; Precedente"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:403
+msgid "Next &raquo;"
+msgstr "Successivo &raquo;"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:4
+msgid "This are iStudio's recent comments."
+msgstr "Commenti Recenti."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:5
+msgid "iStudio Recent Comments"
+msgstr "Commenti Recenti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:10
+msgid "Recent Comments"
+msgstr "Commenti Recenti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:24
+msgid "Title:"
+msgstr "Titolo:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:26
+msgid "Number of comments to show:"
+msgstr "Numero di commenti da mostrare:"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:10
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "Risultati della ricerca per \"%s\""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Click Back to Home"
+msgstr "Clicca Indietro per tornare alla Home Page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Home"
+msgstr "Home Page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Click to return to Home page"
+msgstr "Clicca per tornare alla Home Page"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Blog Archive"
+msgstr "Archivio del Blog"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/search.php:8
+msgid "Search Results"
+msgstr "Risultati della Ricerca"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:9
+msgid "Categories"
+msgstr "Categorie"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:13
+msgid "Most Popular Articles"
+msgstr "Articoli Più Letti"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:20
+msgid "Archives"
+msgstr "Archivi"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:32
+msgid "Meta"
+msgstr "Meta"
+

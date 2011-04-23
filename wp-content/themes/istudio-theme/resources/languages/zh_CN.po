@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iStudio Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-26 22:49+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Xu.hel <xu@xuui.net>\n"
+"Language-Team: Xu.Design <xu@xuui.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme\n"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/404.php:8
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:10
+msgid "Error 404 - Not Found"
+msgstr "404 错误 - 没有找到"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/archive.php:54
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/index.php:32
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/search.php:35
+msgid "Not Found"
+msgstr "没有找到"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/archive.php:57
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/index.php:35
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/search.php:38
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "对不起，您要找的东西不在这里。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/archives.php:14
+msgid "Recent Articles"
+msgstr "最近文章"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:11
+msgid "Responses to "
+msgstr "回复自"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:15
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:18
+msgid "Comments"
+msgstr "评论"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:16
+msgid "Trackbacks"
+msgstr "引用"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:21
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:24
+msgid "Trackback url"
+msgstr "引用地址"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:33
+msgid "No comments yet."
+msgstr "没有任何评论。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:40
+msgid "Comment Page:"
+msgstr "评论分页："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/comments.php:62
+msgid "No trackbacks yet."
+msgstr "没有任何引用。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/footer.php:4
+msgid "&#183;"
+msgstr "&#183;"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:12
+msgid "Excerpt"
+msgstr "摘要"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:143
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:147
+msgid "Settings have been restored to default."
+msgstr "设置已恢复为默认值。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:149
+msgid " Options"
+msgstr " Options"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:174
+msgid "Options"
+msgstr "选项"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:175
+msgid "Thank you for using iStudio. This Theme is Designed by Xu.hel."
+msgstr "谢谢您使用 iStudio。 这个主题是由 Xu.hel 设计。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:176
+msgid "You can click the donate button at the bottom of this page if you think this is a very nice WordPress theme.  Thank you."
+msgstr "如果您非常喜欢这个 WordPress 的主题。那么您可以在这个页面的底部点击捐赠（donate）按钮。谢谢。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:178
+msgid "Custom Shortcode"
+msgstr "自定义短代码"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:180
+msgid "Shortcode format:"
+msgstr "短代码格式："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:181
+msgid "Insert Download: <code>[Downlink href=\"URL\"]Filename[/Downlink]</code>"
+msgstr "插入下载： <code>[Downlink href=\"URL\"]Filename[/Downlink]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:182
+msgid "Insert FLV Video: <code>[flv auto=\"1\"]FLV URL[/flv]</code>"
+msgstr "插入 FLV 视频： <code>[flv auto=\"1\"]FLV URL[/flv]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:183
+msgid "Insert MP3 Music: <code>[mp3 auto=\"1\" replay=\"0\"]MP3 URL[/mp3]</code>"
+msgstr "插入 MP3 音乐： <code>[mp3 auto=\"1\" replay=\"0\"]MP3 URL[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:189
+msgid "General"
+msgstr "常规"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:191
+msgid "Navigation bar is displayed as:"
+msgstr "导航栏显示为："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:192
+msgid "Page link"
+msgstr "页面链接"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:193
+msgid "Category List"
+msgstr "分类列表"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:194
+msgid "WordPress Nav Menu"
+msgstr "WordPress 3.0 导航菜单"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:196
+msgid "Page Number style is displayed as:"
+msgstr "页码样式显示为："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:196
+msgid "Theme Styles"
+msgstr "主题样式"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:196
+msgid "Default Styles"
+msgstr "WordPress 默认样式"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:197
+msgid "Use the Picture Logo."
+msgstr "使用图片 Logo。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:198
+msgid "Hide \"Home\" Link."
+msgstr "隐藏 \"Home\" 链接。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:199
+msgid "Show sidebar in single pages."
+msgstr "在单个文章页面显示侧边栏。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:200
+msgid "Show sidebar in pages."
+msgstr "在页面显示侧边栏。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:201
+msgid "Use Ctrl+Enter to Reply Comments."
+msgstr "使用 Ctrl+Enter 回复评论。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:205
+msgid "Enable keywords for search engine."
+msgstr "启用搜索引擎关键字"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:207
+msgid "Search engine keywords values fill in the following input box. Each keyword with \",\" separated."
+msgstr "搜索引擎关键字的值填写在下面的输入框内。每个关键字用逗号分开。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:212
+msgid "Custom RSS Subscription"
+msgstr "自定义 RSS 订阅"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:214
+msgid "Please enter a new RSS subscription address (if not set is to use WordPress's default subscription address)."
+msgstr "请输入新的 RSS 订阅地址 (如果没有设置就是用 WordPress 的默认订阅地址)。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:219
+msgid "Enable GrowlBox pop-up tips"
+msgstr "开启 GrowlBox 气泡提示"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:221
+msgid "GrowlBox the content of the pop-up tips(Use HTML code.):"
+msgstr "GrowlBox 气泡提示内容 (可以使用 HTML 代码)："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:226
+msgid "Use google custom search engine"
+msgstr "使用 Google 自定义搜索"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:228
+msgid "Find <code>name=\"cx\"</code> in the <strong>Search box code</strong> of <a href=\"http://www.google.com/coop/cse/\">Google Custom Search Engine</a>, and enter the <code>value</code> here.<br/>For example: <code>014782006753236413342:1ltfrybsbz4</code>"
+msgstr "在 <a href=\"http://www.google.com/coop/cse/\">Google Custom Search Engine</a> 的搜索框代码中找到 <code>name=\"cx\"</code> ， 并将同行中 value 的值填写在下面的输入框内。<br />例如: <code>014782006753236413342:1ltfrybsbz4</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:233
+msgid "Open the article Recommendation Widgets"
+msgstr "打开文章推荐 Widgets"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:235
+msgid "Recommended articles to be linked with the HTML code written in the input box below:"
+msgstr "将要推荐的文章链接用 HTML 代码写在下面的输入框内："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:240
+msgid "Random Image"
+msgstr "随机图片"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:242
+msgid "Number of images:"
+msgstr "图片数量："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:242
+msgid "3 images at minimum."
+msgstr "至少需要 3 张图片。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:244
+msgid "Use ads to replace random pictures."
+msgstr "用广告取代随机图片"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:246
+msgid "Ads code to replace the random pictures: (Max size: 860x120)"
+msgstr "取代随机图片的广告代码：(最大尺寸：860x120)"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:246
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:262
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:266
+msgid "Hide after user logged in"
+msgstr "用户登录后隐藏"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:253
+msgid "Ad Code Settings"
+msgstr "广告代码设置"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:256
+msgid "Ads code will not be displayed as long as the ad code box was emptied."
+msgstr "只要把下面的广告代码框清空后，就不会显示广告代码了."
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:257
+msgid "Ad code embedded in the article: (Max size: 300x250)"
+msgstr "文章内容内嵌广告代码：(最大尺寸：300x250）"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+msgid "Embedded ads appear here:"
+msgstr "内嵌广告显示位置："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+msgid "left"
+msgstr "左边"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:258
+msgid "right"
+msgstr "右边"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:262
+msgid "Ad code displayed inside single article: (Max size: 728x90)"
+msgstr "显示于单个文章内页的广告代码：（最大尺寸：728 x 90）"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:266
+msgid "Ad code displayed in the sidebar: (Max size: 200x220)"
+msgstr "显示于边栏的广告代码：（最大尺寸：200x220）"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:272
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:273
+msgid "Revert to Defaults"
+msgstr "恢复为默认值"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:301
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:325
+msgid "iStudio Shortcode"
+msgstr "iStudio 短代码"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:303
+msgid "iStudio Custom Shortcode format"
+msgstr "iStudio 自定义短代码格式"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:305
+msgid "Insert Download"
+msgstr "插入下载按钮"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:306
+msgid "Insert the following code into the editor, you will be able to use the built-in download button style."
+msgstr "在编辑器里面插入以下代码，您就可以使用主题内置 CSS 样式的下载按钮了。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:307
+msgid "Code format: <code>[Downlink href=\"http://www.xxx.com/xxx.zip\"]download xxx.zip[/Downlink]</code>"
+msgstr "代码格式：<code>[Downlink href=\"http://www.xxx.com/xxx.zip\"]download xxx.zip[/Downlink]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:308
+msgid "Insert MP3 music"
+msgstr "插入 MP3 音乐"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:309
+msgid "Insert the following code into the editor, you will be able to use the built-in MP3 music player.."
+msgstr "在编辑器里面插入以下代码，您就可以使用主题内置的 MP3 播放器播放 MP3 音乐了。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:310
+msgid "Only supports mp3 file URL."
+msgstr "只支持 MP3 文件 URL 地址。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:311
+msgid "Code format: <code>[mp3]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "代码格式：<code>[mp3]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:312
+msgid "Auto Play: <code>[mp3 auto=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "自动播放：<code>[mp3 auto=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:313
+msgid "Repeat Play: <code>[mp3 replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "循环播放：<code>[mp3 replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:314
+msgid "Auto Play and Repeat Play: <code>[mp3 auto=\"1\" replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+msgstr "自动并循环播放：<code>[mp3 auto=\"1\" replay=\"1\"]http://www.xxx.com/xxx.mp3[/mp3]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:315
+msgid "Insert FLV video"
+msgstr "插入 FLV 视频"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:316
+msgid "Insert the following code into the editor, you will be able to use the built-in video player to play FLV video."
+msgstr "在编辑器里面插入以下代码，您就可以使用主题内置的 FLV 播放器播放 FLV 视频了。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:317
+msgid "Only supports flv file URL."
+msgstr "只支持 FLV 文件 URL 地址。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:318
+msgid "Code format: <code>[flv]http://www.xxx.com/xxx.flv[/flv]</code>"
+msgstr "代码格式：<code>[flv]http://www.xxx.com/xxx.flv[/flv]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:319
+msgid "Auto Play: <code>[flv auto=\"1\"]http://www.xxx.com/xxx.flv[/flv]</code>"
+msgstr "自动播放：<code>[flv auto=\"1\"]http://www.xxx.com/xxx.flv[/flv]</code>"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:356
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:371
+msgid "Reply"
+msgstr "回复"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:402
+msgid "&laquo; Previous"
+msgstr "&laquo; 上一页"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.php:403
+msgid "Next &raquo;"
+msgstr "下一页 &raquo;"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:4
+msgid "This are iStudio's recent comments."
+msgstr "这是 iStudio 的最近评论。"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:5
+msgid "iStudio Recent Comments"
+msgstr "iStudio 最近评论"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:10
+msgid "Recent Comments"
+msgstr "最近评论"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:24
+msgid "Title:"
+msgstr "标题："
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/functions.widget.php:26
+msgid "Number of comments to show:"
+msgstr "显示的评论数量: "
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:10
+#, php-format
+msgid "Search results for \"%s\""
+msgstr "搜索结果：\"%s\""
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Click Back to Home"
+msgstr "单击返回首页"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Home"
+msgstr "Home"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Click to return to Home page"
+msgstr "单击返回首页"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/header.php:40
+msgid "Blog Archive"
+msgstr "Blog Archive"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/search.php:8
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:9
+msgid "Categories"
+msgstr "分类"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:13
+msgid "Most Popular Articles"
+msgstr "最受欢迎文章"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:20
+msgid "Archives"
+msgstr "文章存档"
+
+#: /Applications/MAMP/htdocs/wordpress/wp-content/themes/istudio-theme/sidebar.php:32
+msgid "Meta"
+msgstr "其它"
+
