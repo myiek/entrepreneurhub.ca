@@ -77,7 +77,7 @@ $(function(){
 	
 	
 	<p class="cjsp-msg"><?php echo sptop('page_msg'); ?>
-		<a href="https://spreadsheets.google.com/viewform?formkey=dHNqR0RSQkp2QjlpNTBMTkFCbTY5dFE6MQ">Submit a Job!</a>
+
 		</p><!-- /message -->
    
 

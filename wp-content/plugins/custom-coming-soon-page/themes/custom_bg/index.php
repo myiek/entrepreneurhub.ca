@@ -72,7 +72,18 @@ body{
 <div id="cjsp-content" class="cjsp-pngfix">
     <div class="cjsp-topsection">
 	<h1 class="cjsp-heading"><?php echo sptop('page_heading'); ?></h1><!-- /heading -->
-	<p class="cjsp-msg"><?php echo sptop('page_msg'); ?></p><!-- /message -->
+	<p class="cjsp-msg"><?php echo sptop('page_msg'); ?>
+		<!-- <a href="https://spreadsheets.google.com/viewform?formkey=dHNqR0RSQkp2QjlpNTBMTkFCbTY5dFE6MQ">Submit a Job!</a> or join our 
+				
+				<a href="http://eepurl.com/ddWoE">mailing list</a>
+				
+				 now! <br/> To find out more check our our
+				
+				<a href="http://entrephub.ning.com/page/page/list"> resources</a> page!
+				 -->
+	</p><!-- /message -->
+	
+	
     </div>
 	<div id="cjsp-countdown">54 Days, 21 Hours, 11 Minutes, 23 Seconds</div><!-- /countdown -->
 	<div id="cjsp-subscribeform">
