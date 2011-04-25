@@ -73,8 +73,15 @@ $(function(){
 <div id="cjsp-content" class="cjsp-pngfix">
     <div class="cjsp-topsection">
 	<h1 class="cjsp-heading"><?php echo sptop('page_heading'); ?></h1><!-- /heading -->
-	<p class="cjsp-msg"><?php echo sptop('page_msg'); ?></p><!-- /message -->
-    </div>
+	
+	
+	
+	<p class="cjsp-msg"><?php echo sptop('page_msg'); ?>
+		<a href="https://spreadsheets.google.com/viewform?formkey=dHNqR0RSQkp2QjlpNTBMTkFCbTY5dFE6MQ">Submit a Job!</a>
+		</p><!-- /message -->
+   
+
+</div>
 	<div id="cjsp-countdown">54 Days, 21 Hours, 11 Minutes, 23 Seconds</div><!-- /countdown -->
 	<div id="cjsp-subscribeform">
 		<form action="<?php echo $sp_plugin_url; ?>/mail.php#cjsp-smessage" method="post" class="aform" id="cjsp-sendsubscriber">
